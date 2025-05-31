@@ -1,0 +1,1 @@
+# Multi-GPU-Distributed-CNN-for-Multi-Class-Character-Recognition
