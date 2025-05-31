@@ -1,6 +1,6 @@
 # Multi-GPU-Distributed-CNN-for-Multi-Class-Character-Recognition
 
-A comprehensive study of parallel computing techniques for accelerating Convolutional Neural Network (CNN) training on character recognition tasks, comparing multi-GPU and multi-CPU parallelization strategies.
+A comprehensive study of parallel computing techniques for accelerating Convolutional Neural Network (CNN) training on character recognition tasks, comparing multi-GPU DDP and AMP parallelization strategies.
 
 ## Project Overview
 
