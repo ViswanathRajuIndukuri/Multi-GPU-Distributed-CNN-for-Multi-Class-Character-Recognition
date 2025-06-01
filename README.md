@@ -37,7 +37,7 @@ This project implements and analyzes various parallel computing approaches for t
     - Multi-core CPU systems
 - **Dataset**: TMNIST (Typeface MNIST) with 94 character classes
 
-## 📊 Dataset
+##  Dataset
 
 **TMNIST Dataset Specifications:**
 
@@ -48,7 +48,7 @@ This project implements and analyzes various parallel computing approaches for t
 - **Features**: 786 columns (1 font name + 1 label + 784 pixel values)
 
 
-## 🏗️ Model Architecture
+## Model Architecture
 
 **CNN Architecture:**
 
