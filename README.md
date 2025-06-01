@@ -1,5 +1,14 @@
 # Multi-GPU-Distributed-CNN-for-Multi-Class-Character-Recognition
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![DDP](https://img.shields.io/badge/PyTorch_DDP-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AMP](https://img.shields.io/badge/Mixed_Precision-FF6F00?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Tesla_P100-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![NVIDIA H100](https://img.shields.io/badge/NVIDIA_H100-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Multi-GPU](https://img.shields.io/badge/Multi--GPU_Training-00C851?style=for-the-badge&logo=nvidia&logoColor=white)
+
 A comprehensive study of parallel computing techniques for accelerating Convolutional Neural Network (CNN) training on character recognition tasks, comparing multi-GPU DDP and AMP parallelization strategies.
 
 ## Project Overview
