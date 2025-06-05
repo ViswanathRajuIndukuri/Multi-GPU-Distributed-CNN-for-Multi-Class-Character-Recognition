@@ -77,14 +77,6 @@ This project implements and analyzes various parallel computing approaches for t
 - **Memory Efficiency**: Effective memory utilization
 - **Accuracy Preservation**: Comparable to full-precision training
 
-
-### Multi-CPU Performance
-
-- **Limited Speedup**: Maximum 1.17× with 4 CPUs
-- **Ensemble Benefits**: Up to 1.1% accuracy improvement
-- **Best Configuration**: 2 CPUs with ensemble approach
-
-
 ##  Performance Comparison
 
 | Configuration | Training Time | Speedup | Test Accuracy | Efficiency |
